@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/xingkongdadao/server#readme",
   "dependencies": {
-    "@types/node": "^8.0.28"
+    "@types/express": "^4.0.37",
+    "@types/node": "^8.0.28",
+    "express": "^4.15.4"
   }
 }
